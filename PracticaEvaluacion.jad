@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: 1.6.0_41-b02 (Sun Microsystems Inc.)
+Class-Path: lib/customizer.jar lib/jmf.jar lib/mediaplayer.jar lib/mul
+ tiplayer.jar lib/sound.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: PracticaEvaluacion.PracticaIMAGEN1
+MIDlet-Jar-Size: 217842
+MIDlet-Jar-URL: PracticaEvaluacion.jar
+Nokia-MIDlet-Category: Game
